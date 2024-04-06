@@ -5,10 +5,10 @@
 
 
 # Project Name
-Long Description about project. This project do that. This project is awesome...
+The project is to create a simple to-do list app using Django framework.
 ## Team members
-1. Shreya V(https://github.com/TH-Activities/saturday-hack-night-template)
-2. Nandana S Pillai(https://github.com/TH-Activities/saturday-hack-night-template)
+1. Shreya V
+2. Nandana S Pillai
 ## Link to product walkthrough
 [link to video](Link Here)
 ## How it Works ?
