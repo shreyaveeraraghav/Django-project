@@ -7,16 +7,17 @@
 # Project Name
 The project is to create a simple to-do list app using Django framework.
 ## Team members
-1. Shreya V
+1. Shreya Veeraraghav
 2. Nandana S Pillai
 ## Link to product walkthrough
-[link to video](Link Here)
+https://drive.google.com/file/d/1qe1rfp1yznxKHixUw8oo5a1NtofmCy1L/view?usp=sharing
 ## How it Works ?
-1. Explaining the working of project
-2. Embed video of project demo
+Enter the tasks that need to be completed 
+![image](https://github.com/shreyaveeraraghav/Django-project/assets/145222875/59329b7e-fb61-4286-bddc-b0f69b457234)
+
 ## Libraries used
-Library Name - Version
+- Django
+- Bootstrap
+
 ## How to configure
-Instructions for setting up project
-## How to Run
-Instructions for running
+You require a web browser to run the application.
